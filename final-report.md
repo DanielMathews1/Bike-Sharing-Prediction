@@ -34,11 +34,11 @@ I would spend more time training the model with the given dataset and potentiall
 |hpo|Tree-Based Models: (GBM, XT, XGB & RF)|KNN|"presets: 'optimize_for_deployment"|0.58776|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
-![train](score.png)
+![train](train.png)
 
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
-[score.png]
+![train](score.png)
 
 
 ## Summary
